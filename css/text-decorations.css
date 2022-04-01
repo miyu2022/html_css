@@ -1,0 +1,6 @@
+.decoration {
+  border: solid 10px red;
+   /* borderプロパティの値にdashedを指定すると、破線になります */
+   border: double 5px red;
+  }
+
